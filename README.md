@@ -1,5 +1,4 @@
-# paginadainternet
-projeto de escolha de filmes.
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
